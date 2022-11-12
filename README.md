@@ -1,1 +1,1 @@
-["euviniciusofc__","eu Vinícius reserva OFC"]
+["euviniciusofc__","euviniciusreservaofc"]
